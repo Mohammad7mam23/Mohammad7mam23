@@ -38,7 +38,7 @@
 
 ### 📫 Reach Me
 - 💌 Email: [Mohammadhamam007@gmail.com](mailto:Mohammadhamam007@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohammad7mam](https://linkedin.com/in/mohammad7mam) <!-- Replace with your actual profile -->
+- 💼 LinkedIn: [linkedin.com/in/mohammad7mam]([https://linkedin.com/in/mohammad7mam](https://www.linkedin.com/in/mohammad-hamam-5b0b3b153/)) <!-- Replace with your actual profile -->
 - 🌐 Portfolio: *Coming soon...*
 
 ---
